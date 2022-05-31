@@ -1,7 +1,7 @@
 {
-	"name": "Hiruko Kagetane",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/R-TEAM94/Hiruko-Kagetane",
-	"logo": "https://node-js-sample.herokuapp.com/node.png",
-	"keywords": ["multi-device"]
+	"clientID": "mNknOk2Vhnjf3xRTbbE0BQ==",
+	"serverToken": "1@7T9IWFs4AZPAnXhY0K3TQWrdY7uJAg5w4k9ipX/Ccal1pkR16cSfwBJi7qLhG43/OdGjhm7H65L6nw==",
+	"clientToken": "qGmLjL6ijJseGk3C3UW4TZhTWmccp6lyoSBFyAzcAD8=",
+	"encKey": "wIts+PVZ5h/7RkPAWKdHtkiWRLIyJDX+k2Xy3I0/wKE=",
+	"macKey": "V+mSSWahK4og7AP7aB9BgdlhhxlEpzOLOp6/Kl1WW3Q="
 }
