@@ -12,22 +12,22 @@ global.APIKeys = {
 
 //===> ATUR BIAR KALIAN SENENG
 global.autoReadGc = true //Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
-global.autoReadAll = false //Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
+global.autoReadAll = true //Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
 global.anticall = true //Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
 global.available = false //Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
 global.autoTyping = false //Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
 global.autoRecord = true //Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
-global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
+global.multiplier = 6999 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
 global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'X - XDZ' //Ganti Jadi Namamu
-global.owner = ['6285334190704','6285334190704'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285334190704' //Owner Utama Istilahnya
-global.namabot = 'XDZ - BOTZ' //Ganti Jadi Nama Botmu
-global.packname = 'XDZ' //Sticker Weem
-global.author = 'By x - Team' //Sticker Weem
+global.namaowner = 'Arull' //Ganti Jadi Namamu
+global.owner = ['6285822347348','6285822347348'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6285822347348' //Owner Utama Istilahnya
+global.namabot = 'ArullBotz' //Ganti Jadi Nama Botmu
+global.packname = 'ArullBotz' //Sticker Weem
+global.author = 'By Arull™' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
 global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
@@ -44,7 +44,7 @@ global.bg4 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 //===> QUOTES BAGIAN MENU
 global.quotes1 = 'Apabila Akal Tidak Sempurna Maka Kurangilah Berbicara. ~Ali Bin Abi Thalib'
 global.quotes2 = 'Orang Yang Suka Berkata Jujur Mendapatkan Tiga Hal, Yakni Kepercayaan, Cinta, dan Rasa Hormat. ~Ali Bin Abi Thalib'
-global.quotes3 = 'Balas Dendam Terbaik Adalah Menjadikan Dirimu Lebih Baik. ~Ali Bin Abi Thalib'
+global.quotes3 = 'ketika kamu terjatuh bangunlah,kalau terjatuh lagi,bangun lagi,kalo masih terjatuh,makanya kalo jalan liat". ~Kata Arull🗿'
 
 //===> TIPS BAGIAN MENU
 global.tips1 = 'Gunakan Jeda 3 Detik Agar Bot Tidak Mati Akibat Spam 🚀'
@@ -60,14 +60,14 @@ limitEnd: 'Limit Anda Habis\n\n📝 Note : Limit Akan Di Reset Setiap Jam 21:00'
 
 //===> EDIT SESUAI KEMAUANMU
 global.mess = {
-admin: '*LU ADMIN? 🤨*',
-botAdmin: '*BOT BUKAN ADMIN 😔*',
-owner: '*LU BUKAN OWNER GW 😠*',
-group: '*KHUSUS GROUP 😏*',
+admin: '*LU ADMIN KAH? 🤨*',
+botAdmin: '*BOT BUKAN ADMIN 😒*',
+owner: '*LU BUKAN OWNER GW 😂*',
+group: '*KHUSUS GROUP 🤦*',
 private: '*KHUSUS PRIVATE CHAT*',
 bot: '*KHUSUS PENGGUNA NOMER BOT*',
-wait: '*SABAR SEDANG DI PROSES ...*',
-done: '*DONE NGAB 🤗*',
+wait: '*SABAR SEDANG DI PROSES BOT...*',
+done: '*DONE NGEB 🤗*',
 }
 
 //===> KALO MAU MENYESUAIKAN NAMA FILE FOTO NYA
