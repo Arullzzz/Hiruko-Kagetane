@@ -1,7 +1,7 @@
 {
-  "name": "Hiruko-Kagetane",
+  "name": "ArullBotz",
   "version": "5.0.0",
-  "description": "Whatsapp Bot By Ryuuka Team",
+  "description": "Whatsapp Bot By Arull",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -16,7 +16,7 @@
     "botmd",
     "bot-md"
   ],
-  "author": "Ryuuka Team",
+  "author": "ArullBotz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
